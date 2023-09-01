@@ -1,6 +1,6 @@
 # BillBuddy Expense Tracker App
 
-![BillBuddy Logo](link_to_your_logo.png) <!-- You can add your project logo here -->
+![BillBuddy Logo](bill-buddy-logo.png) <!-- You can add your project logo here -->
 
 BillBuddy-Expense-Tracker-App is a full-stack MERN application that helps you keep track of your expenses. With support for all CRUD operations, this app allows you to easily add, edit, and delete expenses. The app is built using the popular ANT design library, providing a sleek and modern user interface. Keep your finances in check with BillBuddy-Expense-Tracker-App!
 ## Features
